@@ -3,6 +3,15 @@ body{
 }
 
 .cvClass{
-    align-items: center;
+    text-align: center;
     color: purple;
+}
+
+.myDiv{
+    border: slategray;
+    align-items: center;
+}
+
+.innerClass1, .innerClass2, .innerClass3, td{
+    border: 1px solid black;
 }
