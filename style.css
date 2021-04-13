@@ -1,23 +1,16 @@
 body{
-    background-color: palegoldenrod;
-}
-
-.cvClass{
-    text-align: center;
-    color: purple;
-}
-
-.myDiv{
-    border: slategray;
-    align-items: center;
+    background-color: rgb(240, 207, 175);
 }
 
 .innerClass1, .innerClass2, .innerClass3, td{
-    border: 1px solid black;
+    border: 1.5px solid black;
 }
 
-.center{
-    border: 1px solid black;
-    margin-left: auto;
+
+.center, .titleClass{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
     margin-right: auto;
+    margin-left: auto;
 }
